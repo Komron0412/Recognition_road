@@ -1,0 +1,15 @@
+django
+channels
+daphne
+face_recognition
+opencv-python
+django
+channels
+daphne
+face_recognition
+opencv-python
+numpy
+python-dotenv
+psycopg2-binary
+# dlib is a dependency of face_recognition but often needs manual cmake install on m1
+# we will assume standard install works or provide instructions
